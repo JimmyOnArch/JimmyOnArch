@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JimmyOnArch
 - 👀 I’m interested in investing and building applications.
-- 🌱 I’m currently building dApps and Smart Sontract
+- 🌱 I’m currently building dApps, generative art and Smart Sontract
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://jimmy.agapewang.com
 
